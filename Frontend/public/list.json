@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Horror Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 10,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Comedy Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 100,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Success Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 50,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Food Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 6,
+    "name": "story Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Horror Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 10,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Comedy Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 100,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Success Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 50,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  },
+  {
+    "id": 10,
+    "name": "Food Book",
+    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint rem",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1715488227~exp=1715491827~hmac=b877e84342965132742a6d0fe89c605ba14f31964e32764895d18e435025e44d&w=740"
+  }
+]
